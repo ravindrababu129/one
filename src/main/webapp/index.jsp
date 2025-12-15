@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>ravi — Saree Pre-pleating</title>
+  <title> Lakshmi'S— Saree Pre-pleating</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
     :root{--bg:#fff8f3;--card:#ffffff;--accent:#aa4a44;--muted:#6b6b6b}
@@ -49,7 +49,7 @@
     <header>
       <div class="logo">L</div>
       <div>
-        <h1>amala— Saree Pre‑pleating</h1>
+        <h1>Lakshmi's— Saree Pre‑pleating</h1>
         <p class="lead">Beautiful pre‑pleated sarees — ready to wear, tailor‑made drapes and custom embellishments.</p>
       </div>
     </header>
